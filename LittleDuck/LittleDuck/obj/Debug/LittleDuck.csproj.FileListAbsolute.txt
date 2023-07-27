@@ -1,0 +1,8 @@
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\bin\Debug\LittleDuck.exe.config
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\bin\Debug\LittleDuck.exe
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\bin\Debug\LittleDuck.pdb
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\obj\Debug\LittleDuck.csproj.AssemblyReference.cache
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\obj\Debug\LittleDuck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\obj\Debug\LittleDuck.csproj.CoreCompileInputs.cache
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\obj\Debug\LittleDuck.exe
+C:\Users\Vacintosh\Documents\projects\LittleDuck\LittleDuck\obj\Debug\LittleDuck.pdb
